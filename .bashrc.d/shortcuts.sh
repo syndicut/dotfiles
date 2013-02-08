@@ -1,2 +1,2 @@
 alias s=ssh
-alias e=vim
+alias e=$EDITOR
